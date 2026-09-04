@@ -1,16 +1,31 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,50:7b2ff7,100:00fff7&height=6&section=header" width="100%" alt="divider" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,45:ff2e88,100:00fff7&height=160&section=header&text=PATRICIO%20TORREZ&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=WEB%20%2B%20MOBILE%20DEVELOPER&descAlignY=64&descSize=15" width="100%" alt="banner" />
+~~~
+█████  ███  █████ ████  █████  ████ █████  ███
+█   █ █   █   █   █   █   █   █       █   █   █
+█████ █████   █   ████    █   █       █   █   █
+█     █   █   █   █  █    █   █       █   █   █
+█     █   █   █   █   █ █████  ████ █████  ███
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=FF2E88&center=true&vCenter=true&width=720&height=70&lines=DESARROLLO+WEB+Y+MOVIL;WEB+AND+MOBILE+DEVELOPMENT;JS+%2B+TS+%2B+FLUTTER+%2B+NODE;SIEMPRE+APRENDIENDO..." alt="typing" />
+█████  ███  ████  ████  █████ █████
+  █   █   █ █   █ █   █ █        █
+  █   █   █ ████  ████  ████    █
+  █   █   █ █  █  █  █  █      █
+  █    ███  █   █ █   █ █████ █████
 
-<br/>
+        >>  WEB  +  MOBILE  DEVELOPER  <<
+~~~
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-0D0221?style=for-the-badge&logo=statuspage&logoColor=00FFF7" alt="status" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/WEB%20DEV-0D0221?style=for-the-badge&logo=html5&logoColor=FF2E88" alt="web dev" />
+<img src="https://img.shields.io/badge/MOBILE%20DEV-0D0221?style=for-the-badge&logo=flutter&logoColor=00FFF7" alt="mobile dev" />
 <img src="https://img.shields.io/badge/MEXICO-0D0221?style=for-the-badge&logo=googlemaps&logoColor=FF2E88" alt="ubicacion" />
 <img src="https://komarev.com/ghpvc/?username=PatricioTorrez&label=VISITAS&color=ff2e88&style=for-the-badge" alt="visitas" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,50:7b2ff7,100:00fff7&height=5&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:ff2e88&height=6&section=header" width="100%" alt="divider" />
 
 </div>
 
@@ -56,7 +71,7 @@ I enjoy **web and mobile development**: taking an idea from design to something 
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:ff2e88&height=5&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,50:7b2ff7,100:00fff7&height=6&section=header" width="100%" alt="divider" />
 </div>
 
 ## ░▒▓ STACK ▓▒░
@@ -91,7 +106,7 @@ I enjoy **web and mobile development**: taking an idea from design to something 
 <img src="https://img.shields.io/badge/VS%20CODE-0D0221?style=for-the-badge&logo=visualstudiocode&logoColor=00FFF7" alt="VS Code" />
 <img src="https://img.shields.io/badge/POSTMAN-0D0221?style=for-the-badge&logo=postman&logoColor=FF2E88" alt="Postman" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,50:7b2ff7,100:00fff7&height=5&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:ff2e88&height=6&section=header" width="100%" alt="divider" />
 
 </div>
 
@@ -106,7 +121,7 @@ I enjoy **web and mobile development**: taking an idea from design to something 
 | **[Despliegue.io](https://github.com/PatricioTorrez/Despliegue.io)** | Prácticas de despliegue web<br/><sub>Web deployment practice</sub> | <img src="https://img.shields.io/badge/PHP-0D0221?style=flat-square&logo=php&logoColor=7B2FF7" /> |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:ff2e88&height=5&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,50:7b2ff7,100:00fff7&height=6&section=header" width="100%" alt="divider" />
 </div>
 
 ## ░▒▓ STATS ▓▒░
@@ -118,7 +133,7 @@ I enjoy **web and mobile development**: taking an idea from design to something 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatricioTorrez&theme=synthwave&utcOffset=-6" height="200" alt="horario productivo" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e88,50:7b2ff7,100:00fff7&height=5&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,50:7b2ff7,100:ff2e88&height=6&section=header" width="100%" alt="divider" />
 
 </div>
 
@@ -136,10 +151,12 @@ I enjoy **web and mobile development**: taking an idea from design to something 
   <img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1500&color=00FFF7&center=true&vCenter=true&width=600&height=50&lines=GRACIAS+POR+PASAR;THANKS+FOR+STOPPING+BY;GAME+OVER+...+INSERT+COIN" alt="outro" />
+~~~
+        GAME OVER  ·  INSERT COIN  ·  GRACIAS POR PASAR
+~~~
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff7,45:ff2e88,100:0d0221&height=90&section=footer" width="100%" alt="footer" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,45:ff2e88,100:00fff7&height=60&section=footer" width="100%" alt="footer" />
 </div>
