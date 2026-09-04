@@ -25,7 +25,7 @@
 ### 🇪🇸 Español
 
 Soy **Patricio**, desarrollador enfocado en **backend**.
-En **Masbyte** construyo un sistema interno de **gestión de renovaciones de seguros** con Node.js, Express y Oracle, con una interfaz web ligera encima.
+Construyo sistemas internos de **gestión de renovaciones de seguros** con Node.js, Express y Oracle, con una interfaz web ligera encima.
 
 - 🔭 **Ahora:** sistemas internos de gestión y automatización de procesos
 - 🌱 **Aprendiendo:** arquitectura backend, SQL avanzado y Flutter
@@ -38,7 +38,7 @@ En **Masbyte** construyo un sistema interno de **gestión de renovaciones de seg
 ### 🇬🇧 English
 
 I'm **Patricio**, a developer focused on the **backend**.
-At **Masbyte** I build an internal **insurance renewals management system** with Node.js, Express and Oracle, with a lightweight web UI on top.
+I build internal **insurance renewals management systems** with Node.js, Express and Oracle, with a lightweight web UI on top.
 
 - 🔭 **Now:** internal management systems and process automation
 - 🌱 **Learning:** backend architecture, advanced SQL and Flutter
