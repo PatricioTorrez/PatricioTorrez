@@ -115,20 +115,6 @@ I enjoy **web and mobile development**: taking an idea from design to something 
 
 </div>
 
-## [ PROYECTOS · PROJECTS ]
-
-| Proyecto | Descripción · Description | Tech |
-| :--- | :--- | :--- |
-| **[Kallix-Studio](https://github.com/PatricioTorrez/Kallix-Studio)** | Proyecto web en TypeScript<br/><sub>Web project built with TypeScript</sub> | <img src="https://img.shields.io/badge/TS-000000?style=flat-square&logo=typescript&logoColor=29ADFF&labelColor=000000" /> |
-| **[votos-chavalines](https://github.com/PatricioTorrez/votos-chavalines)** | Sistema de votación web<br/><sub>Web voting system</sub> | <img src="https://img.shields.io/badge/JS-000000?style=flat-square&logo=javascript&logoColor=FFEC27&labelColor=000000" /> |
-| **[app_menos_violencia](https://github.com/PatricioTorrez/app_menos_violencia)** | App móvil de apoyo y prevención<br/><sub>Mobile support and prevention app</sub> | <img src="https://img.shields.io/badge/FLUTTER-000000?style=flat-square&logo=flutter&logoColor=29ADFF&labelColor=000000" /> |
-| **[reservacion](https://github.com/PatricioTorrez/reservacion)** | Sistema de reservaciones<br/><sub>Booking system</sub> | <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=83769C&labelColor=000000" /> |
-| **[Despliegue.io](https://github.com/PatricioTorrez/Despliegue.io)** | Prácticas de despliegue web<br/><sub>Web deployment practice</sub> | <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=83769C&labelColor=000000" /> |
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEC27&height=6&section=header" width="100%" alt="divider" />
-</div>
-
 ## [ STATS ]
 
 <div align="center">
