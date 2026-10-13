@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Patricio Torrez — Web & Mobile Developer"/>
+<a href="#"><img src="assets/banner.svg" width="100%" alt="Patricio Torrez — Web & Mobile Developer"/></a>
 
 <a href="https://www.linkedin.com/in/patricio-torrez-de-paz-45b309227"><img src="https://img.shields.io/badge/LinkedIn-Connect-3b5dc9?style=for-the-badge&logo=linkedin&logoColor=f4f4f4&labelColor=1a1c2c" alt="LinkedIn"/></a>
 <a href="https://kallix-studio.vercel.app"><img src="https://img.shields.io/badge/Demo-Kallix_Studio-38b764?style=for-the-badge&logo=vercel&logoColor=f4f4f4&labelColor=1a1c2c" alt="Kallix Studio demo"/></a>
-<img src="https://komarev.com/ghpvc/?username=PatricioTorrez&label=PLAYERS&color=ffcd75&style=for-the-badge" alt="Profile views"/>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=PatricioTorrez&label=PLAYERS&color=ffcd75&style=for-the-badge" alt="Profile views"/></a>
 
 <b>🇲🇽 Desarrollo apps web y móviles, del primer pixel al deploy.</b><br/>
 <i>🇺🇸 I build web & mobile apps, from the first pixel to deploy.</i>
@@ -13,10 +13,10 @@
 
 <br/>
 
-<img src="assets/header-character.svg" width="100%" alt="Ficha de personaje / Character sheet"/>
+<a href="#"><img src="assets/header-character.svg" width="100%" alt="Ficha de personaje / Character sheet"/></a>
 
 <div align="center">
-<img src="assets/character.svg" width="100%" alt="Clase: Full-stack dev · Base: México · Especial: Web + Mobile"/>
+<a href="#"><img src="assets/character.svg" width="100%" alt="Clase: Full-stack dev · Base: México · Especial: Web + Mobile"/></a>
 </div>
 
 | 🇲🇽 Español | 🇺🇸 English |
@@ -29,21 +29,21 @@
 
 <br/>
 
-<img src="assets/header-inventory.svg" width="100%" alt="Inventario / Inventory"/>
+<a href="#"><img src="assets/header-inventory.svg" width="100%" alt="Inventario / Inventory"/></a>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,php,laravel,flutter,dart,vite,git,github,vercel,vscode&perline=8&theme=dark" alt="Tech stack"/>
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,nodejs,express,php,laravel,flutter,dart,vite,git,github,vercel,vscode&perline=8&theme=dark" alt="Tech stack"/></a>
 
-<img src="https://img.shields.io/badge/Oracle-DB-b13e53?style=for-the-badge&logo=oracle&logoColor=f4f4f4&labelColor=1a1c2c" alt="Oracle"/>
-<img src="https://img.shields.io/badge/Socket.IO-Realtime-73eff7?style=for-the-badge&logo=socketdotio&logoColor=f4f4f4&labelColor=1a1c2c" alt="Socket.IO"/>
-<img src="https://img.shields.io/badge/MySQL-DB-41a6f6?style=for-the-badge&logo=mysql&logoColor=f4f4f4&labelColor=1a1c2c" alt="MySQL"/>
+<a href="#"><img src="https://img.shields.io/badge/Oracle-DB-b13e53?style=for-the-badge&logo=oracle&logoColor=f4f4f4&labelColor=1a1c2c" alt="Oracle"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Socket.IO-Realtime-73eff7?style=for-the-badge&logo=socketdotio&logoColor=f4f4f4&labelColor=1a1c2c" alt="Socket.IO"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-DB-41a6f6?style=for-the-badge&logo=mysql&logoColor=f4f4f4&labelColor=1a1c2c" alt="MySQL"/></a>
 
 </div>
 
 <br/>
 
-<img src="assets/header-levels.svg" width="100%" alt="Selecciona nivel / Level select"/>
+<a href="#"><img src="assets/header-levels.svg" width="100%" alt="Selecciona nivel / Level select"/></a>
 
 <table>
 <tr>
@@ -70,19 +70,19 @@
 
 <br/>
 
-<img src="assets/header-stats.svg" width="100%" alt="Estadísticas / Stats"/>
+<a href="#"><img src="assets/header-stats.svg" width="100%" alt="Estadísticas / Stats"/></a>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PatricioTorrez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1c2c&title_color=ffcd75&text_color=f4f4f4&icon_color=73eff7&ring_color=ef7d57&custom_title=PLAYER%20STATS" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatricioTorrez&layout=compact&hide_border=true&bg_color=1a1c2c&title_color=ffcd75&text_color=f4f4f4&custom_title=POWER-UPS" alt="Top languages"/>
+<a href="#"><img height="165" src="https://github-readme-stats.vercel.app/api?username=PatricioTorrez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1c2c&title_color=ffcd75&text_color=f4f4f4&icon_color=73eff7&ring_color=ef7d57&custom_title=PLAYER%20STATS" alt="GitHub stats"/></a>
+<a href="#"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatricioTorrez&layout=compact&hide_border=true&bg_color=1a1c2c&title_color=ffcd75&text_color=f4f4f4&custom_title=POWER-UPS" alt="Top languages"/></a>
 
-<img src="https://streak-stats.demolab.com?user=PatricioTorrez&hide_border=true&background=1A1C2C&stroke=333C57&ring=FFCD75&fire=EF7D57&currStreakNum=F4F4F4&sideNums=F4F4F4&currStreakLabel=FFCD75&sideLabels=94B0C2&dates=94B0C2" alt="Contribution streak"/>
+<a href="#"><img src="https://streak-stats.demolab.com?user=PatricioTorrez&hide_border=true&background=1A1C2C&stroke=333C57&ring=FFCD75&fire=EF7D57&currStreakNum=F4F4F4&sideNums=F4F4F4&currStreakLabel=FFCD75&sideLabels=94B0C2&dates=94B0C2" alt="Contribution streak"/></a>
 
-<img src="https://raw.githubusercontent.com/PatricioTorrez/PatricioTorrez/output/snake.svg" width="100%" alt="Snake eating my contributions"/>
+<a href="#"><img src="https://raw.githubusercontent.com/PatricioTorrez/PatricioTorrez/output/snake.svg" width="100%" alt="Snake eating my contributions"/></a>
 
 </div>
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Gracias por jugar / Thanks for playing"/>
+<a href="#"><img src="assets/footer.svg" width="100%" alt="Gracias por jugar / Thanks for playing"/></a>
